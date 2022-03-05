@@ -1,4 +1,4 @@
-
+!! This is a sample website for a homework assignment !!
 # Horiseon
 
 Horiseon is your one stop solution for Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Benefits for chosing Horiseon include effortless Lead Genration, heightened Brand Awareness, and significant Cost Management.
@@ -6,6 +6,9 @@ Horiseon is your one stop solution for Search Engine Optimization, Online Reputa
 
 ![image](./Develop/assets/images/screenshot.png)
 
+# LInk to Deployed Application
+
+https://smckelli.github.io/horiseon/
 # Summary of technical changes
 
     1. Modified the original source code to semantic HTML
