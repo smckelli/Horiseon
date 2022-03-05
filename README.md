@@ -2,9 +2,9 @@
 # Horiseon
 
 Horiseon is your one stop solution for Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Benefits for chosing Horiseon include effortless Lead Genration, heightened Brand Awareness, and significant Cost Management.
-# Introduction
+# Screenshot
 
-    This update includes a cleaner and more intuitive update to the original code for the Horiseon website.
+![image](./Develop/assets/images/screenshot.png)
 
 # Summary of technical changes
 
